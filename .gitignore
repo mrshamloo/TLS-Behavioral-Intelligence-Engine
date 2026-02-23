@@ -1,6 +1,6 @@
 *.csv
-*.txt
 
 .venv/
+.idea/
 build/
 dist/

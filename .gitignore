@@ -1,4 +1,5 @@
 *.csv
+!sample_ja4_log.csv
 
 .venv/
 .idea/
